@@ -1,3 +1,4 @@
+//Write a program to accept an integer as input from the user representing an ASCII value and print its character equivalent.
 #include<stdio.h>
 int main()
 {
@@ -5,3 +6,5 @@ int main()
     scanf("%d",&a);
     printf("%c",a);
 }
+
+
